@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Sikwa and I'm a Software Developer, from Zambia</h2>
+<h2 align="left">Hey 👋🏿!  <br/>
+  My name is Sikwa 🙌🏿 <br/>
+  and I'm a Software Developer 👨🏿‍💻, 
+  <br/>from Zambia 🙏🏿</h2>
 
 ###
 
