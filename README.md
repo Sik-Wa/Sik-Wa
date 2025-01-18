@@ -1,6 +1,7 @@
-<h2 align="left">Hey 👋🏿!  <br/>
-  My name is Sikwa 🙌🏿 <br/>
-  and. <br/> I'm a Software Developer 👨🏿‍💻 </h2>
+<h2 align="left">Hey! 👋🏿  <br/>
+  I'm Sikwa 🙌🏿 <br/>
+  and<br/> 
+I'm a Software Developer 👨🏿‍💻 </h2>
 
 ###
 
