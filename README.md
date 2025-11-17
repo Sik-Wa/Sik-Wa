@@ -1,7 +1,7 @@
 <h2 align="left">Hey! 👋🏿  <br/>
   I'm Sikwa 🙌🏿 <br/>
-  and<br/> 
-I'm a Software Developer 👨🏿‍💻 </h2>
+  ,<br/> 
+A Software Developer 👨🏿‍💻 </h2>
 
 ###
 
